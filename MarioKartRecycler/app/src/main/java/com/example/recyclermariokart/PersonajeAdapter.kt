@@ -1,5 +1,6 @@
 package com.example.recyclermariokart
 
+import android.content.res.ColorStateList
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -11,13 +12,6 @@ import com.google.android.material.imageview.ShapeableImageView
 class PersonajeAdapter(
     private val listaPersonajes: List<Personaje>
 ) : RecyclerView.Adapter<PersonajeAdapter.PersonajeViewHolder>() {
-
-    private val coloresAcento = intArrayOf(
-        R.color.mk_pink,
-        R.color.mk_yellow,
-        R.color.mk_cyan,
-        R.color.mk_pink_dark
-    )
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): PersonajeViewHolder {
         val view = LayoutInflater.from(parent.context)
@@ -40,9 +34,8 @@ class PersonajeAdapter(
 
         fun bind(personaje: Personaje, position: Int) {
             imgPersonaje.setImageResource(personaje.imagen)
-            imgPersonaje.strokeColor = ContextCompat.getColor(
-                itemView.context,
-                adapterAcento(position)
+            imgPersonaje.strokeColor = ColorStateList.valueOf(
+                ContextCompat.getColor(itemView.context, adapterAcento(position))
             )
             txtNombre.text = personaje.nombre
             txtVelocidad.text = "Vel ${personaje.velocidad}/10"
