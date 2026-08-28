@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/drawable_bg_checker_flag_yellow.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/drawable/bg_checker_flag_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/drawable_bg_chip_pink.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/drawable/bg_chip_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/drawable_bg_chip_yellow.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/drawable/bg_chip_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_bowser.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\bowser.jpg"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_donkey_kong.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\donkey_kong.jpg"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/layout_item_personaje.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/layout/item_personaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_banner.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\banner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\layout_item_personaje.xml.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\layout\\item_personaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_toad.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\toad.png"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_luigi.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\luigi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_peach.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\peach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_yoshi.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\yoshi.jpg"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/drawable_bg_chip_cyan.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/drawable/bg_chip_cyan.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.recyclermariokart.app-debug-32:/drawable_bg_checker_flag.xml.flat",
+        "source": "com.example.recyclermariokart.app-main-34:/drawable/bg_checker_flag.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-debug-32:\\drawable_mario.jpg.flat",
+        "source": "C:\\Users\\43nat\\.gradle\\daemon\\8.9\\com.example.recyclermariokart.app-main-34:\\drawable\\mario.jpg"
+    }
+]
